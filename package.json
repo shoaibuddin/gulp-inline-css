@@ -9,7 +9,8 @@
   "author": "Shoaib Ud-Din",
   "license": "BSD",
   "devDependencies": {
-    "gulp": "^3.8.5",
-    "gulp-inline-css": "^2.0.0"
+    "gulp": "^3.8.11",
+    "gulp-inline-css": "^2.0.0",
+    "gulp-util": "^3.0.3"
   }
 }

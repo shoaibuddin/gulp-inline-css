@@ -1,3 +1,11 @@
 p {
   text-decoration: underline;
 }
+
+.title {
+	font-size: 34px;
+}
+
+.paragraph {
+	font-size: 12px;
+}
