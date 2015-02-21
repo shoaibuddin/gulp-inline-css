@@ -1,4 +1,4 @@
-# gulp-Inline-CSS
+# gulp-inline-css
 > Gulp with Gulp Inline CSS.
 
 
