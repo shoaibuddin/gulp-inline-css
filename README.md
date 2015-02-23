@@ -25,3 +25,6 @@ Enter the following in the terminal:
 ```bash
 $ gulp
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shoaibuddin/gulp-inline-css/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
