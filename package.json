@@ -1,8 +1,8 @@
 {
-  "name": "gulp-js-stylus",
+  "name": "gulp-email-inline-css",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "> Gulp with Gulp Inline CSS.",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,25 @@
     "gulp": "^3.8.11",
     "gulp-inline-css": "^2.0.0",
     "gulp-util": "^3.0.3"
-  }
+  },
+  "dependencies": {
+    "gulp-inline-css": "^2.0.0",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoaibuddin/gulp-inline-css.git"
+  },
+  "keywords": [
+    "Email",
+    "Template",
+    "Inline",
+    "CSS",
+    "Generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/shoaibuddin/gulp-inline-css/issues"
+  },
+  "homepage": "https://github.com/shoaibuddin/gulp-inline-css"
 }

@@ -1,5 +1,5 @@
 # gulp-inline-css
-> Gulp with Gulp Inline CSS.
+> Gulp with Gulp Inline CSS. Create email templates with inline css styles 
 
 
 ## Installing
