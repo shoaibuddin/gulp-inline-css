@@ -1,7 +1,7 @@
 {
   "name": "gulp-email-inline-css",
-  "version": "1.0.0",
-  "description": "> Gulp with Gulp Inline CSS.",
+  "version": "1.0.1",
+  "description": "Gulp with Gulp Inline CSS. Create email templates with inline css styles.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
